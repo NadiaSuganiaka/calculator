@@ -1,0 +1,32 @@
+body {
+    background-color: #ffe4fc;
+}
+
+button {
+    height: 40px;
+    width: 40px;
+    margin-left: 5px;
+    margin-bottom: 5px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    background-color: #eb88e7;
+    border: 1px solid #0000004c;
+    color: white;
+}
+
+#equals {
+    background-color: #eb44e6;   
+}
+
+#input {
+    height: 40px;
+    width: 185px;
+    margin-left: 5px;
+    margin-bottom: 5px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    background-color: #fff7ff;
+    border: 1px solid #0000004c;
+}
